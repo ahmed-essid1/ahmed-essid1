@@ -45,7 +45,7 @@
 ### 🌾 AgriBot: Autonomous Agricultural Robot
 *Final-year project at SIAF / TuniBot*
 
-Full-scale autonomous robot (~200 kg) for field operations.
+Full-scale autonomous robot for field operations.
 - ROS 2 Jazzy + Nav2 navigation, EKF sensor fusion (GPS, IMU, wheel odometry), AMCL localization
 - Custom RP2350 firmware: Modbus RTU motor control, PID with anti-windup, encoder odometry
 - Coverage path planning (boustrophedon) from a Flutter mobile app + Flask backend
