@@ -103,6 +103,5 @@ Arabic (native) · French (advanced) · English (advanced)
 
 ---
 
-<p align="center"><b>Open to Embedded / Robotics opportunities in Europe.</b></p>
 <p align="center"><b>For professional enquiries and collaboration.</b></p>
 <p align="center"><a href="mailto:ahmed.essid@enetcom.u-sfax.tn">Get in touch</a></p>
