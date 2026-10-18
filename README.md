@@ -75,7 +75,7 @@ Engineer in Electronic Communication Systems with a strong focus on robotics and
 
 **Communication buses:** 
 ![UART](https://img.shields.io/badge/UART-555555?style=flat)
-![I2C](https://img.shields.io/badge/I²C-555555?style=flat)
+![I2C](https://img.shields.io/badge/I2C-555555?style=flat)
 ![SPI](https://img.shields.io/badge/SPI-555555?style=flat)
 ![Modbus](https://img.shields.io/badge/Modbus_RTU_/_RS485-555555?style=flat)
 
