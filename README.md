@@ -52,6 +52,7 @@ Engineer in Electronic Communication Systems with a strong focus on robotics and
 - ESP32-based IoT smartwatch monitoring heart rate, SpO₂, blood pressure, glucose and activity, with ML anomaly prediction
 - Physiological sensors (MAX30100, MPU6050, AD8232)
 - Flutter mobile app with Firebase and a FastAPI backend serving ML models (TensorFlow Lite, Random Forest, neural networks)
+- [Project repository](https://github.com/ahmed-essid1/vitaltrack)
 
 ---
 
