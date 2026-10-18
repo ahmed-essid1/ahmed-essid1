@@ -86,6 +86,11 @@ Engineer in Electronic Communication Systems with a strong focus on robotics and
 ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+**AI / Backend:** 
+![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![RL](https://img.shields.io/badge/Reinforcement_Learning_(PPO)-8A2BE2?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
 **Tools:** 
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
