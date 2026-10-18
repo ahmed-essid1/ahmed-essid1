@@ -16,7 +16,7 @@
 
 ## Profile
 
-Embedded & robotics engineer from ENET'Com Sfax, specialized in embedded firmware, electronics and robotics. Took a large autonomous robot from prototype to field testing by owning its electronics, firmware and system integration.
+Engineer in Electronic Communication Systems with a strong focus on robotics and embedded systems, from low-level firmware and electronics to autonomous navigation.
 
 ---
 
