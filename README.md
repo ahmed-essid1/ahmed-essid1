@@ -1,3 +1,5 @@
+<div align="center">
+
 # Ahmed Essid
 
 ### Engineer in Electronic Communication Systems
@@ -7,6 +9,8 @@
 **Focus:** autonomous mobile robots and embedded firmware · **Areas:** navigation, sensor fusion, motor control, electronics / PCB, connected devices
 
 [LinkedIn](https://www.linkedin.com/in/ahmed-essid1/) · [GitHub](https://github.com/ahmed-essid1) · [Email](mailto:ahmed.essid@enetcom.u-sfax.tn)
+
+</div>
 
 ---
 
